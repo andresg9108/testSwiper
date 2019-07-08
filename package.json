@@ -1,0 +1,15 @@
+{
+  "name": "mySwiperSlider",
+  "version": "0.1.0",
+  "description": "Project focused on the design of components for HTML.",
+  "scripts": {
+    "start": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andresg9108/mySwiperSlider"
+  },
+  "author": "Andres Gonzalez",
+  "license": "MIT",
+  "homepage": "https://github.com/andresg9108/mySwiperSlider"
+}
