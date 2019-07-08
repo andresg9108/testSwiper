@@ -1,6 +1,6 @@
 $(function(){
 	let oSwiper = configSwiperSlider('.carousel1',
-		1, 10,
+		4, 10,
 		'.swiper-pagination',
 		'.swiper-button-next',
 		'.swiper-button-prev');
