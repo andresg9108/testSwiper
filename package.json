@@ -1,15 +1,24 @@
 {
-  "name": "mySwiperSlider",
+  "name": "testSwiper",
   "version": "0.1.0",
-  "description": "Project focused on the design of components for HTML.",
+  "description": "Testing Swiper library.",
   "scripts": {
     "start": "grunt"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/andresg9108/mySwiperSlider"
+    "url": "https://github.com/andresg9108/testSwiper"
   },
   "author": "Andres Gonzalez",
   "license": "MIT",
-  "homepage": "https://github.com/andresg9108/mySwiperSlider"
+  "homepage": "https://github.com/andresg9108/testSwiper",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-watch": "^1.1.0",
+    "matchdep": "^2.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "swiper": "^4.5.0"
+  }
 }

@@ -1,7 +1,8 @@
 module.exports = function(grunt) {
     // Route
     var aRoute = [
-        './web/*'
+        './web/*',
+        './web/carousel/*'
     ];
     
     // Js

@@ -1,4 +1,4 @@
-# mySwiperSlider
+# testSwiper
 
 ### Dependencies
 
