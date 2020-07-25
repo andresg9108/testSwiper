@@ -36,6 +36,4 @@ module.exports = function(grunt) {
     });
     
     grunt.registerTask('default', ['watch']);
-    grunt.loadNpmTasks('grunt-contrib');
-    grunt.loadNpmTasks('grunt-contrib-handlebars');
 };

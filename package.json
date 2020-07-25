@@ -1,6 +1,6 @@
 {
   "name": "testSwiper",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Testing Swiper library.",
   "scripts": {
     "start": "grunt"
@@ -13,12 +13,12 @@
   "license": "MIT",
   "homepage": "https://github.com/andresg9108/testSwiper",
   "devDependencies": {
-    "grunt": "^1.0.4",
+    "grunt": "^1.2.1",
     "grunt-contrib-watch": "^1.1.0",
     "matchdep": "^2.0.0"
   },
   "dependencies": {
-    "jquery": "^3.4.1",
-    "swiper": "^4.5.0"
+    "jquery": "^3.5.1",
+    "swiper": "^6.0.4"
   }
 }
